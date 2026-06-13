@@ -50,18 +50,18 @@ Welcome to my GitHub! I’m an **Data Professional** focused on
 
 ##  Experience
 
-- **Analytics Engineer | Data Driven Solutions (Founder) – 07/2025 – 11/2025**  
+- **Analytics Engineer | Data Driven Solutions – 07/2025 – 11/2025**  
   Full ownership of the data lifecycle, including ingestion from multiple sources (APIs, web scraping, spreadsheets)  
   and automation of ETL pipelines in Python on Google Cloud (Cloud Run + Cloud Scheduler).  
   Data Lake & Data Warehouse modeling in BigQuery with governance, versioning and traceability of datasets (Bronze/Silver/Gold).  
   Integration with management dashboards in **Power BI** and **Looker Studio** and consulting on best practices in Data & Analytics.
 
-- **Data Analyst | Thirty Capital (Contract) – 05/2024 – 12/2024**  
+- **Data Analyst | Thirty Capital  – 05/2024 – 12/2024**  
   Responsible for cleaning, standardizing and integrating financial data in ETL processes with **Python and SQL**.  
   Developed automations to consolidate multiple databases and generate comparative analyses for corporate dashboards  
   with strong focus on data quality.
 
-- **Market Intelligence Analyst | Foco Aluguel de Carros (CLT) – 05/2022 – 05/2024**  
+- **Market Intelligence Analyst | Foco Aluguel de Carros – 05/2022 – 05/2024**  
   Developed pricing, demand forecasting and market intelligence solutions.  
   Designed dashboards and strategic reports in **Power BI** and Excel to support commercial and financial decisions.  
 
@@ -73,7 +73,7 @@ Welcome to my GitHub! I’m an **Data Professional** focused on
 
 ##  Education
 
-- **Postgraduate in Data Engineering | 2025 – 2026 (In Progress) – Anhanguera**  
+- **Postgraduate in Data Engineering | 2025 – 2026 – Anhanguera**  
   Data Warehouses, Big Data, Data Lakes, ETL/ELT, Spark, Delta Lake, Databricks, Airflow, Azure/GCP/AWS.
 
 - **Professional Certificate – Advanced Data Engineering | 2025 – Duke University**  
